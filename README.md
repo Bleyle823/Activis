@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center">
-      Bandada-Semaphore Feedback App
+      ACTIVIS
     </h1>
 </p>
 
