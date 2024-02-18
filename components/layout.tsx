@@ -1,6 +1,7 @@
-import Header from "./header"
+//import Header from "./header"
 import Footer from "./footer"
 import Head from "next/head"
+import NavComponent from "../components/NavComponent";
 
 export default function Layout({ children }: any) {
   return (
@@ -15,9 +16,12 @@ export default function Layout({ children }: any) {
       </Head>
 
       <div className="flex flex-col min-h-screen text-slate-900">
-        <Header />
+        {/* <Header /> */}
+        <NavComponent />
+        <body className="bg-black w-full min-h-screen text-white ">
         <main className="mb-auto px-2">{children}</main>
-        <Footer />
+        {/* <Footer /> */}
+        </body>
       </div>
     </>
   )

@@ -27,3 +27,8 @@
   animation: spin 1s linear infinite;
   z-index: 20;
 }
+
+.buttons{
+  background: linear-gradient(99.74deg, #06DBAC 5.23%, #BD00FF 92.7%);
+
+}

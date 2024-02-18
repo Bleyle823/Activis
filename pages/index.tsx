@@ -4,6 +4,13 @@ import React, { useEffect, useState } from "react"
 import { getGroup } from "@/utils/bandadaApi"
 import Stepper from "@/components/stepper"
 import Divider from "@/components/divider"
+import AboutSection from "../components/AboutSection";
+import Community from "../components/Community";
+import Discover from "../components/Discover";
+//import Footer from "../components/Footer";
+import Hero from "../components/Hero";
+//import MarketPlace from "../components/MarketPlace";
+
 
 export default function Home() {
   const router = useRouter()
@@ -92,7 +99,14 @@ export default function Home() {
   }
 
   return (
+    
     <div>
+      
+      <Hero />
+      {/* <AboutSection />
+      <MarketPlace />
+      <Community /> */}
+       <Discover /> 
       <div>
         <div className="flex justify-center items-center">
           <h1 className="text-3xl font-semibold text-slate-700">Identities</h1>
@@ -141,5 +155,6 @@ export default function Home() {
         </div>
       </div>
     </div>
+    
   )
 }
