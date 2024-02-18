@@ -6,14 +6,14 @@
 
 
 
-ACTIVIS operates in the world of Zero-Knowledge Proofs (zk-SNARKs), a revolutionary technology that allows users to prove possession of certain information without revealing it. This is the backbone of the DApp, ensuring privacy and security for all users.The smart contract leverages Zero-Knowledge Proofs to ensure that votes are anonymous yet verifiable.
+ACTIVIS is a decentralized platform for activists. It operates in the world of Zero-Knowledge Proofs (zk-SNARKs), a revolutionary technology that allows act to prove possession of certain information without revealing it. This is the backbone of the DApp, ensuring privacy and security for all users.Users will be able to participate in advocating for various causes like climate change, black lives matter or violence against women by donating crypto currency, voting anonymously among other features. Due to the sensitive nature of these issues, privacy is very pivotal. The smart contract leverages Zero-Knowledge Proofs to ensure that activist votes are anonymous yet verifiable. 
 
 Organize: Users can create groups around specific causes. These groups are encrypted and only accessible to members, ensuring privacy and security.
 Collaborate: Within these groups, users can share ideas, plan events, and coordinate actions. All communication is end-to-end encrypted, ensuring that only the intended recipients can read the messages.
 
-Advocate: Users can create and sign petitions, organize protests, and advocate for their cause in a public, censorship-resistant manner. Thanks to zk-SNARKs, users can prove their support for a cause without revealing their identity.
+Advocate: Users can create and sign petitions, organize protests, and advocate for their cause in a public, censorship-resistant manner. Thanks to anon aadhaar, users can prove their support for a cause without revealing their identity.
 
-Security: All actions on the DApp are secured using zk-SNARKs. This means that while anyone can verify the legitimacy of actions taken (like signing a petition), they cannot link those actions back to a specific user.
+Security: All actions on the DApp are secured. This means that while anyone can verify the legitimacy of actions taken (like signing a petition), they cannot link those actions back to a specific user.
 
 Censorship-Resistant: As a DApp on a decentralized network, ZK Advocate is resistant to censorship. No single entity controls the network, making it nearly impossible to shut down or control.
 ZK Advocate empowers individuals and groups to make a difference in their communities and the world, all while maintaining their privacy and security. It’s more than just a hero—it’s a tool for change.
